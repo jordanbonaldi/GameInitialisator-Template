@@ -1,0 +1,4 @@
+name: Prison
+version: 1.0
+main: net.neferett.linaris.Main
+depend: [BukkitAPI]
